@@ -1,0 +1,11 @@
+#intro {
+	font-family: Arial;
+	font-size: 20px
+}
+.paragraph {
+	font-family: Times;
+}
+p {
+	padding-left: 30px;
+	margin-right: 80px;
+}
